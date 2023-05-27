@@ -1,1 +1,1 @@
-hello
+A mathematics diagram which shows 1 isolateral triangle and other rectangle, both with 50% overlap.
